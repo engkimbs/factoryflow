@@ -11,6 +11,6 @@ Factory Flow is an architecture what I've developed and operated in manufacturin
 # Features
 
 # TBD
-* **Spec Check** - check spec based on standard information stored in RDBMS. Filter informal sensor value or process other business logic. 
-* **Statistics Calculation** - calculate statistics value like average over the minute, hour.
+* **Spec Check** - Check spec based on standard information stored in RDBMS. Filter informal sensor value or process other business logic. 
+* **Statistics Calculation** - Calculate statistics value like average over the minute, hour.
 * **UI for statistical information and realtime monitor** - UI for monitoring statistics sensor value or trace sensor value in realtime 
